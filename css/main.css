@@ -354,7 +354,6 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  padding-top: 20px;
   font-family: 'Times New Roman', Times, serif;
   color: black;
   display: -webkit-box;
@@ -412,5 +411,9 @@ main {
 
 header {
   background-color: #3cff00;
+}
+
+.hero {
+  margin: 0 auto;
 }
 /*# sourceMappingURL=main.css.map */
